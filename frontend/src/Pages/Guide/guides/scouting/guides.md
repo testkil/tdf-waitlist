@@ -2,8 +2,10 @@
 
 ## Fit
 
+
+
 ```
-[Atron, Incursion scout]
+[Atron, Example scout fit]
 
 Type-D Restrained Inertial Stabilizers
 Type-D Restrained Inertial Stabilizers
@@ -24,6 +26,25 @@ Small Hyperspatial Velocity Optimizer II
 
 Four Freedoms Firework x100
 Iron Charge S x1000
+```
+More expensive fit, if you feel safer being covert ops cloaked, make the fit that works best for you!
+```
+[Astero, Expensive scout fit]
+Inertial Stabilizers II
+Inertial Stabilizers II
+Experimental Hyperspatial Accelerator
+Inertial Stabilizers II
+
+5MN Quad LiF Restrained Microwarpdrive
+Small Shield Extender II
+Small Shield Extender II
+Multispectrum Shield Hardener II
+
+Covert Ops Cloaking Device II
+
+Small Hyperspatial Velocity Optimizer II
+Small Hyperspatial Velocity Optimizer II
+Small Hyperspatial Velocity Optimizer II
 ```
 
 ## Tools
