@@ -2,7 +2,7 @@
 
 ## Fit
 
-[Atron, Incursion scout]
+```[Atron, Incursion scout]
 
 Type-D Restrained Inertial Stabilizers
 Type-D Restrained Inertial Stabilizers
@@ -21,9 +21,8 @@ Small Hyperspatial Velocity Optimizer II
 Small Hyperspatial Velocity Optimizer II
 Small Hyperspatial Velocity Optimizer II
 
-
 Four Freedoms Firework x100
-Iron Charge S x1000
+Iron Charge S x1000```
 
 ## Tools
 
